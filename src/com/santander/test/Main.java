@@ -26,7 +26,7 @@ public class Main {
          *
          * Operadores lógicos
          * || - se UMA DAS condições do if for satisfeita, a implementação é executada
-         * && - se TODAS as condições do if forem satisfeitas, a implementação é atualizada
+         * && - se TODAS as condições do if forem satisfeitas, a implementação é executada
          *
          * Operadores de comparação numéricos > , >= , < , <= , == , !=
          *
